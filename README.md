@@ -1,4 +1,11 @@
+initials
+========
+get initials
+
+caesar
+========
+caesar encrypting
+
 vigenere
 ========
-
-vigenere cracker
+vigenere encrypting
